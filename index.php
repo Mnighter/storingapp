@@ -14,6 +14,7 @@
 
         <h1>Welkom bij de technische dienst</h1>
         <img src="img/logo-big-fill-only.png" alt="logo">
+        <p>hoi</p>
 
     </div>
 
